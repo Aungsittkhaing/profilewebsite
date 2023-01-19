@@ -126,9 +126,9 @@
     height: 2.2px;
     background-color: var(--bs-gray);
 }
-.about-section{
+/* .about-section{
     border-bottom: 1px solid gray;
-}
+} */
 .card-about{
     padding: 60px;
     border-right: 1px solid grey;
