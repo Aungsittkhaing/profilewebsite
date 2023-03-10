@@ -318,18 +318,12 @@
             // instead of a settings object
         ]
     });
-
-
-
-
-
 // //venobox
     new VenoBox({
         selector: '.aa',
         share: true,
         infinigall: true
     });
-
 
 
 
